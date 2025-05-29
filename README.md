@@ -1,4 +1,4 @@
-# 💻 Hackintosh: macOS na ASUS ROG Strix B550-F Gaming (Ryzen 5 5600X + RX 570)
+# 💻 Hackintosh: macOS na ASUS ROG Strix B550-F Gaming (Ryzen 5 5600 + RX 470/570)
 
 
 > ⚠️ **Uwaga**: Instalacja systemu macOS na sprzęcie innym niż Apple narusza licencję końcową użytkownika (EULA). Ten poradnik służy wyłącznie celom edukacyjnym. Wykorzystujesz go na własną odpowiedzialność.
