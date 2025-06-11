@@ -42,6 +42,7 @@ Ten config OpenCore został stworzony i przetestowany dla instalacji macOS Sequo
 Brak czasu na pełną walidację sprzętu
 
 ## 📸 Zrzuty ekranu
+![about](images/1.png)<img src="images/2.png" alt="Opis alternatywny" width="35%"> <img src="images/3.png" alt="Opis alternatywny" width="35%">
 
 ## ⚙️ Konfiguracja BIOS/UEFI
 
