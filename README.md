@@ -125,3 +125,4 @@ Before installing, make sure you have:
 This project is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
+![about](images/4.png)
