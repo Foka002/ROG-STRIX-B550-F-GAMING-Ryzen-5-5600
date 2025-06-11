@@ -91,61 +91,6 @@ Before installing, make sure you have:
 - Boot Priority: USB first
 - Fast Boot: Disabled
 
-## 🔧 Post-Install
-
-### Essential Steps:
-1. Install Xcode Command Line Tools
-2. Update kexts to latest versions
-3. Run OpenCore Sanity Checker
-4. Test all hardware functionality
-5. Generate proper SMBIOS for iServices
-
-### Optional Optimizations:
-- Enable FileVault (if desired)
-- Configure power management
-- Set up Bluetooth devices
-- Install additional software
-
-## 🛠️ Troubleshooting
-
-### Common Issues:
-
-**Boot Issues:**
-- Verify BIOS settings
-- Check OpenCore version compatibility
-- Validate config.plist syntax
-
-**Audio Problems:**
-- Try different AppleALC layout IDs
-- Check audio codec compatibility
-- Verify kext loading order
-
-**Graphics Issues:**
-- Ensure proper framebuffer patching
-- Check GPU compatibility list
-- Disable unsupported GPUs
-
-**Network Problems:**
-- Verify ethernet kext compatibility
-- Check driver installation
-- Test with different cables
-
-## 📊 Performance
-
-*Add benchmark results here*
-
-## 🔄 Updates
-
-### Latest Changes:
-- Initial release with macOS Sequoia support
-- Added support for B550 chipset
-- Configured audio and ethernet
-
-### Planned:
-- Test iServices functionality
-- Add Wi-Fi support
-- Optimize power management
-
 ## 🔗 Useful links
 
 - [Official OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -161,21 +106,6 @@ Before installing, make sure you have:
 - [Dortania](https://github.com/dortania) for comprehensive guides
 - [AMD-OSX](https://github.com/AMD-OSX) for AMD kernel patches
 - Hackintosh community for continuous support and development
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Test your changes thoroughly
-4. Submit a pull request with detailed description
-
-### Reporting Issues:
-- Use the issue template
-- Provide system specifications
-- Include relevant logs
-- Describe reproduction steps
 
 ## ⚖️ Disclaimer
 
@@ -196,5 +126,3 @@ Contributions are welcome! Please:
 This project is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
-
-**Made with ❤️ by the Hackintosh community**
