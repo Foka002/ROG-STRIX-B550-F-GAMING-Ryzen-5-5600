@@ -37,8 +37,8 @@ This OpenCore config was created and tested for macOS Sequoia (15.x) installatio
 Not enough time for full hardware validation
 
 ## 📸 Screenshots
+![about](images/1.png) 
 
-!(images/Screenshot 2025-06-11 at 16.59.02.png)
 ## 📋 Prerequisites
 
 Before installing, make sure you have:
