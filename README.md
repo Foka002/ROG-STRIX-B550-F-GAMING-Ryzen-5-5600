@@ -1,4 +1,4 @@
-# 💻 Hackintosh: macOS on ASUS ROG Strix B550-F Gaming (Ryzen 5 5600 + RX 470/570)
+# ASUS ROG Strix B550-F Gaming (Ryzen 5 5600 + RX 470/570)
 
 ## 🖥️ About this repository
 
