@@ -43,12 +43,6 @@ Brak czasu na pełną walidację sprzętu
 
 ## 📸 Zrzuty ekranu
 
-*[Dodaj tutaj zrzuty ekranu z działającym systemem]*
-
-## 📋 Wymagania wstępne
-
-
-
 ## ⚙️ Konfiguracja BIOS/UEFI
 
 ### Wyłącz:
