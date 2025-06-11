@@ -37,7 +37,7 @@ This OpenCore config was created and tested for macOS Sequoia (15.x) installatio
 Not enough time for full hardware validation
 
 ## 📸 Screenshots
-![about](images/1.png)<img src="images/3.png" alt="Opis alternatywny" width="35%"> <img src="images/3.png" alt="Opis alternatywny" width="35%">
+![about](images/1.png)<img src="images/2.png" alt="Opis alternatywny" width="35%"> <img src="images/3.png" alt="Opis alternatywny" width="35%">
 
 ## 📋 Prerequisites
 
