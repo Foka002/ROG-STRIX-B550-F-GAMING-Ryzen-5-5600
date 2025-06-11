@@ -38,8 +38,7 @@ Not enough time for full hardware validation
 
 ## 📸 Screenshots
 
-*[Add screenshots of the working system here]*
-
+!(images/Screenshot 2025-06-11 at 16.59.02.png)
 ## 📋 Prerequisites
 
 Before installing, make sure you have:
